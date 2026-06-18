@@ -1,7 +1,6 @@
 <!--
    🎨 Ventsdemer's GitHub Profile README
    丰富炫酷风格 · Feature-Rich & Colorful
-   替换提示：搜索 "TODO" 替换为你的个人信息
 -->
 
 <!-- ========== Header Wave 波浪标题 ========== -->
