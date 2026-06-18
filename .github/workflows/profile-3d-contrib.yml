@@ -4,9 +4,11 @@ name: Generate 3D Contribution
 
 on:
   schedule:
-    # 每天 UTC 0:00 自动运行
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,7 +21,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Ventsdemer
+          USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
               "theme": "night_view"
@@ -30,4 +32,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update 3D contribution graph" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎨 Update 3D contribution graph [skip ci]" && git push)
