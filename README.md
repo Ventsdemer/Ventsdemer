@@ -7,7 +7,7 @@
 <!-- ========== Header Wave 波浪标题 ========== -->
 <div align="center">
   <a href="https://github.com/Ventsdemer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=260&section=header&text=Ventsdemer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TODO：你的职位描述，如%20Full-Stack%20AI%20Developer&descAlignY=55&descAlign=62" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=260&section=header&text=Ventsdemer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=本科生" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🔥-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌍-Based%20in%20China-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼-TODO：你的职位-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼-本科生-orange?style=for-the-badge" />
 </div>
 
 <br/>
@@ -39,13 +39,13 @@
 <tr>
 <td width="55%">
 
-- 🔭 I'm currently working on **TODO：你当前在做什么**
-- 🌱 I'm currently learning **TODO：你正在学什么**
+- 🔭 I'm currently working on **上学**
+- 🌱 I'm currently learning **to be better**
 - 👯 I'm looking to collaborate on **AI / Open Source Projects**
-- 🤔 I'm looking for help with **TODO：你需要什么帮助**
+- 🤔 I'm looking for help with **求索**
 - 💬 Ask me about **AI, Web Dev, Full-Stack**
-- 📫 How to reach me: **TODO：你的邮箱**
-- ⚡ Fun fact: **TODO：一个有趣的个人事实**
+- 📫 How to reach me: **1985770982@qq.com**
+- ⚡ Fun fact: **404 NOT Found**
 
 </td>
 <td width="45%">
@@ -54,9 +54,9 @@
 class Ventsdemer:
     def __init__(self):
         self.name    = "Ventsdemer"
-        self.role    = "TODO：你的职位"
+        self.role    = "builder"
         self.stack   = ["AI/ML", "Frontend", "Backend"]
-        self.motto   = "TODO：你的座右铭"
+        self.motto   = "life is life"
         self.brain   = "Always Learning 🧠"
     
     def code(self):
@@ -224,11 +224,8 @@ class Ventsdemer:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TODO：你的邮箱@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TODO：你的用户名)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TODO：你的用户名)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://TODO：你的博客.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://TODO：你的作品集.com)
+[![QQmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1985770982@qq.com)
+
 
 </div>
 
