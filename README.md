@@ -172,19 +172,6 @@ class Ventsdemer:
 
 <br/>
 
-<!-- ========== 📊 3D Contribution 3D贡献图 ========== -->
-<h2>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e47kk1kgeb7cngi6ecbtvsll22ei2y1q61onq28annx&ep=v1_gifs_search&rid=giphy.gif" width="28px" />
-  3D Contribution
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Ventsdemer">
-    <img src="https://raw.githubusercontent.com/Ventsdemer/Ventsdemer/main/profile-3d-contrib/profile-customize.svg" />
-  </a>
-</div>
-
-<br/>
 
 <!-- ========== 🔗 Connect With Me 联系方式 ========== -->
 <h2>
