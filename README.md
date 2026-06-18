@@ -180,7 +180,7 @@ class Ventsdemer:
 
 <div align="center">
   <a href="https://github.com/Ventsdemer">
-    <img src="https://raw.githubusercontent.com/Ventsdemer/Ventsdemer/profile-3d-contrib/profile-customize.svg" />
+    <img src="https://raw.githubusercontent.com/Ventsdemer/Ventsdemer/main/profile-3d-contrib/profile-customize.svg" />
   </a>
 </div>
 
