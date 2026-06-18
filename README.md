@@ -224,7 +224,7 @@ class Ventsdemer:
 
 <div align="center">
 
-[![QQmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1985770982@qq.com)
+[![QQ Mail](https://img.shields.io/badge/QQ_Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1985770982@qq.com)
 
 
 </div>
