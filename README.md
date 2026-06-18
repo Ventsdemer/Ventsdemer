@@ -119,39 +119,10 @@ class Ventsdemer:
 
 <br/>
 
-<!-- ========== 📊 GitHub Stats 统计卡片 ========== -->
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif?cid=ecf05e478uq6giz71n1o0bohr7q6jnzoz3jlkx9faw68ngtr&ep=v1_stickers_search&rid=giphy.gif" width="28px" />
-  GitHub Stats
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Ventsdemer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ventsdemer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ventsdemer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8" />
-  </a>
-</div>
-
-<br/>
-
 <!-- ========== 🔥 Streak Stats 连续打卡 ========== -->
 <div align="center">
   <a href="https://github.com/Ventsdemer">
     <img src="https://streak-stats.demolab.com?user=Ventsdemer&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=FF6B6B&currStreakLabel=00C6FF&sideLabels=00C6FF&dates=8B949E" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ========== 🏆 GitHub Trophies 奖杯 ========== -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47n4b10bi5jrky17ewfbh2zq7nlenr4i8eigqcbkyn&ep=v1_stickers_search&rid=giphy.gif" width="28px" />
-  GitHub Trophies
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Ventsdemer">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ventsdemer&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&title=Commits,Followers,Repositories,Stars,PullRequest,Issues,Reviews" />
   </a>
 </div>
 
